@@ -1,6 +1,7 @@
-
+# VC Git tutorial
 # first-npm-package
 Just a simple Hello World NPM package
+<<<<<<< HEAD
 Get water 
 with complex additions 
 how are you doing 
@@ -10,3 +11,9 @@ Github training
 2
 3
 4
+=======
+
+# Invite link for Rendani: https://github.com/KoketsoMabuela92/first-npm-package/invitations
+
+Edit by Grant #2
+>>>>>>> b8af917e59b89d87dd8d4dfadaf46ede941959ba
