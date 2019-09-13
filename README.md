@@ -16,4 +16,3 @@ Github training
 # Invite link for Rendani: https://github.com/KoketsoMabuela92/first-npm-package/invitations
 
 Edit by Grant #2
->>>>>>> b8af917e59b89d87dd8d4dfadaf46ede941959ba
